@@ -1,0 +1,3 @@
+/home/rami96/CLionProjects/TrainStation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rami96/CLionProjects/TrainStation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rami96/CLionProjects/TrainStation/cmake-build-debug/CMakeFiles/TrainStation.dir
